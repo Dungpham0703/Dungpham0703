@@ -1,6 +1,6 @@
 <!-- Profile: Phạm Thanh Dũng | Da Nang, Viet Nam -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=800&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Dung+%F0%9F%91%8B;Full-stack+Learner+%7C+MERN;TypeScript+%7C+Deno;Love+UI%2FUX%2C+Clean+Code%2C+and+Writing" alt="typing svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=800&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Dung%F0%9F%91%8B;" alt="typing svg" />
 
 </p>
 
