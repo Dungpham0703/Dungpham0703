@@ -39,14 +39,16 @@
 ### 🚀 Featured Projects
 - **Workout Tracker (MERN)** — CRUD workouts, REST API, Tailwind UI  
   `Node/Express · MongoDB/Mongoose · React/Vite/Tailwind`  
-  Repo: `https://github.com/Dungpham0703/workout_tracker` ·
-- **Personal Portfolio** — smooth animations, certificates grid, sticky navbar  
-  `React · Tailwind · Framer Motion`  
-  Repo: `https://github.com/YOUR_USERNAME/portfolio` · 
+  Repo: [github.com/Dungpham0703/workout_tracker](https://github.com/Dungpham0703/workout_tracker)  
+
+- **Simple Chatroom (Deno + Tailwind)** — real-time messaging with rooms & nicknames  
+  `Deno · WebSocket · TailwindCSS`  
+  Repo: [github.com/Dungpham0703/deno_chatroom](https://github.com/Dungpham0703/deno_chatroom)  
 
 > Pinned projects are below — click “⚙️ Customize your pins” on the profile.
+
 ---
 
 ### 🤝 Connect
-<a href="mailto:phamthanhdung111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-me-0b5?logo=gmail&logoColor=white"></a>
+<a href="mailto:phamthanhdung1112@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-me-0b5?logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/dung-pham-thanh-5a88a0364/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white"></a>
