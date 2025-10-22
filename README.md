@@ -7,10 +7,10 @@
 ---
 
 ## 🧠 About Me
-I’m a student passionate about **data engineering domain** 
+I’m a student passionate about **data engineering domain**.
 I enjoy building **ETL pipelines**, **data workflows**, and automating processes using Python and SQL.  
-Currently exploring **distributed data processing** and **cloud data platforms** such as AWS and Spark.  
-Data needs engineers to give it a voice.
+Currently, I'm exploring **distributed data processing** and **cloud data platforms** such as AWS and Spark.  
+The reason that make me want to be a data engineer is "Data needs engineers to give it a voice".
 
 ---
 
