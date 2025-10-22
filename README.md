@@ -2,7 +2,8 @@
 
 **Data Engineering Student at Troy Campus – Duy Tân University**  
 📍 Da Nang, Viet Nam  
-📧 [phamthanhdung1112@gmail.com](mailto:phamthanhdung1112@gmail.com)
+**Email:** [phamthanhdung1112@gmail.com](mailto:phamthanhdung1112@gmail.com)
+**Portfolio:** [https://thanh-dung-portfolio-73.vercel.app](https://thanh-dung-portfolio-73.vercel.app)
 
 ---
 
@@ -54,6 +55,6 @@ Full-stack web app for tracking workouts.
 - **Email:** [phamthanhdung1112@gmail.com](mailto:phamthanhdung1112@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/dung-pham-thanh-5a88a0364](https://www.linkedin.com/in/dung-pham-thanh-5a88a0364/)  
 - **GitHub:** [github.com/Dungpham0703](https://github.com/Dungpham0703)
-- **Profile:** [https://thanh-dung-portfolio-73.vercel.app](https://thanh-dung-portfolio-73.vercel.app)
+- **Portfolio:** [https://thanh-dung-portfolio-73.vercel.app](https://thanh-dung-portfolio-73.vercel.app)
 ---
 
