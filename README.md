@@ -1,54 +1,59 @@
-<!-- Profile: Phạm Thanh Dũng | Da Nang, Viet Nam -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=800&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Dung%F0%9F%91%8B;" alt="typing svg" />
+# 👋 Phạm Thanh Dũng
 
-</p>
-
-### 👋 About me
-- 🎓 Student @ **Troy Campus at Duy Tân University**
-- 📍 **Da Nang, Vietnam**
-- 💡 Interests: **MERN**, new technologies, baminton , a bit of **literature & research**
-- 📫 Reach me: **[Email](mailto:phamthanhdung1112@gmail.com)** · 
+**Data Engineering Student @ Troy Campus – Duy Tân University**  
+📍 Da Nang, Viet Nam  
+📧 [phamthanhdung1112@gmail.com](mailto:phamthanhdung1112@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack
-<p>
-  <!-- Frontend -->
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5-ef652a?logo=html5&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-2965f1?logo=css3&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=222">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-0ea5e9?logo=tailwindcss&logoColor=white">
-  <!-- Backend / Runtimes -->
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3c873a?logo=nodedotjs&logoColor=white">
-  <img alt="Deno" src="https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white">
-  <img alt="Express" src="https://img.shields.io/badge/Express-000?logo=express&logoColor=white">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-116149?logo=mongodb&logoColor=white">
-  <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white">
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-cc2927?logo=microsoftsqlserver&logoColor=white">
-  <!-- Tools -->
-  <img alt="Git" src="https://img.shields.io/badge/Git-f05032?logo=git&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-ff6c37?logo=postman&logoColor=white">
-</p>
+## 🧠 About Me
+I’m a student passionate about **data engineering domain** 
+I enjoy building **ETL pipelines**, **data workflows**, and automating processes using Python and SQL.  
+Currently exploring **distributed data processing** and **cloud data platforms** such as AWS and Spark.  
+Data needs engineers to give it a voice.
 
 ---
 
-### 🚀 Featured Projects
-- **Workout Tracker (MERN)** — CRUD workouts, REST API, Tailwind UI  
-  `Node/Express · MongoDB/Mongoose · React/Vite/Tailwind`  
-  Repo: [github.com/Dungpham0703/workout_tracker](https://github.com/Dungpham0703/workout_tracker)  
+## 🛠️ Tech Stack
 
-- **Simple Chatroom (Deno + Tailwind)** — real-time messaging with rooms & nicknames  
-  `Deno · WebSocket · TailwindCSS`  
-  Repo: [github.com/Dungpham0703/deno_chatroom](https://github.com/Dungpham0703/deno_chatroom)  
+### 🐍 Programming & Scripting
+- **Python**,**Java**, **SQL**, **Bash**
 
-> Pinned projects are below — click “⚙️ Customize your pins” on the profile.
+### ⚙️ Data Engineering & Processing
+- **Apache Airflow** – workflow orchestration  
+- **PySpark** – distributed data processing  
+- **pandas**, **NumPy**, **SQLAlchemy**, **requests**  
+- **ETL Pipelines**, **API Integration**, **Data Cleaning and Normalization**
 
+### 🗃️ Databases & Storage
+- **PostgreSQL**, **SQL Server**, **MongoDB**  
+- **Experienced with AWS S3** 
+
+### ☁️ Cloud & DevOps
+- **Docker**, **WSL2**, **Git/GitHub**, **Linux Terminal**
+- **Experienced with AWS** 
+
+### 📊 Analytics & Visualization
+- **Experienced with Power BI**
+
+## 💼 Featured Projects
+
+### 🔸 [Gold ETL Pipeline](https://github.com/Dungpham0703/Gold_ETL_data_pipeline)
+Fetching daily gold prices from an API, transforms data with pandas, and send the CSV file to email.  
+Creating email automation by Airflow scheduling.  
+Configuring and managing the Airflow data pipeline environment using Docker containers.
+`Python · pandas · Airflow · Docker`
+
+
+### 🔸 [Workout Tracker (MERN)](https://github.com/Dungpham0703/workout_tracker)
+Full-stack web app for tracking workouts.  
+`React · Node.js · Express · MongoDB · Tailwind`
 ---
 
-### 🤝 Connect
-<a href="mailto:phamthanhdung1112@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-me-0b5?logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/dung-pham-thanh-5a88a0364/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white"></a>
+## 🤝 Connect
+- **Email:** [phamthanhdung1112@gmail.com](mailto:phamthanhdung1112@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/dung-pham-thanh-5a88a0364](https://www.linkedin.com/in/dung-pham-thanh-5a88a0364/)  
+- **GitHub:** [github.com/Dungpham0703](https://github.com/Dungpham0703)
+- **Profile:** [https://thanh-dung-portfolio-73.vercel.app](https://thanh-dung-portfolio-73.vercel.app)
+---
+
