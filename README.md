@@ -21,7 +21,7 @@ The reason that make me want to be a data engineer is "Data needs engineers to g
 ## 🛠️ Tech Stack
 
 ### 🐍 Programming & Scripting
-- **Python**,**Java**, **SQL**, **Bash**
+- **Python**, **Java**, **SQL**, **Bash**
 
 ### ⚙️ Data Engineering & Processing
 - **Apache Airflow** – workflow orchestration  
