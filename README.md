@@ -3,6 +3,7 @@
 **Data Engineering Student at Troy Campus – Duy Tân University**  
 📍 Da Nang, Viet Nam  
 **Email:** [phamthanhdung1112@gmail.com](mailto:phamthanhdung1112@gmail.com).
+
 **Portfolio:** [https://thanh-dung-portfolio-73.vercel.app](https://thanh-dung-portfolio-73.vercel.app)
 
 ---
@@ -49,6 +50,7 @@ Configuring and managing the Airflow data pipeline environment using Docker cont
 ### 🔸 [Workout Tracker (MERN)](https://github.com/Dungpham0703/workout_tracker)
 Full-stack web app for tracking workouts.  
 `React · Node.js · Express · MongoDB · Tailwind`
+
 ---
 
 ## 🤝 Connect
