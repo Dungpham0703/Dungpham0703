@@ -1,7 +1,9 @@
 # 👋 Phạm Thanh Dũng
 
 **Data Engineering Student at Troy Campus – Duy Tân University**  
+
 📍 Da Nang, Viet Nam  
+
 **Email:** [phamthanhdung1112@gmail.com](mailto:phamthanhdung1112@gmail.com).
 
 **Portfolio:** [https://thanh-dung-portfolio-73.vercel.app](https://thanh-dung-portfolio-73.vercel.app)
