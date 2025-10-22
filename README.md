@@ -46,11 +46,20 @@ The reason that make me want to be a data engineer is "Data needs engineers to g
 Fetching daily gold prices from an API, transforms data with pandas, and send the CSV file to email.  
 Creating email automation by Airflow scheduling.  
 Configuring and managing the Airflow data pipeline environment using Docker containers.
+
 `Python · pandas · Airflow · Docker`
+
+### 🔸 [Hugging Face ETL Pipeline](https://github.com/Dungpham0703/etl-huggingface)
+Extracting datasets from the Hugging Face Hub, transforming them with pandas for data cleaning and formatting,  
+and loading the processed data into a PostgreSQL database for analytics and storage.  
+Designed and maintained the ETL workflow using modular Python scripts and environment variables.
+
+`Python · pandas · SQLAlchemy · PostgreSQL`
 
 
 ### 🔸 [Workout Tracker (MERN)](https://github.com/Dungpham0703/workout_tracker)
 Full-stack web app for tracking workouts.  
+
 `React · Node.js · Express · MongoDB · Tailwind`
 
 ---
