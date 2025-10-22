@@ -4,7 +4,7 @@
 
 📍 Da Nang, Viet Nam  
 
-**Email:** [phamthanhdung1112@gmail.com](mailto:phamthanhdung1112@gmail.com).
+**Email:** [phamthanhdung1112@gmail.com](mailto:phamthanhdung1112@gmail.com)
 
 **Portfolio:** [https://thanh-dung-portfolio-73.vercel.app](https://thanh-dung-portfolio-73.vercel.app)
 
