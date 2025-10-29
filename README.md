@@ -12,7 +12,7 @@
 
 ## About Me
 I’m a student passionate about data engineering domain.
-**I enjoy building ETL pipelines, data workflows, and automating processes using Python and SQL. Data needs engineers to give it a voice, and please give me the favor of proving how I can make it speak through pipelines, and systems that
+**I enjoy building ETL pipelines, data workflows, and automating processes using Python and SQL. Data needs engineers to give it a voice, and please give me the favor of proving how I can make it speak through pipelines and systems that
 bring data to life.**
 ---
 
