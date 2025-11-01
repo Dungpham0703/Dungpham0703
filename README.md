@@ -56,11 +56,6 @@ Designed and maintained the ETL workflow using modular Python scripts and enviro
 `Python · pandas · SQLAlchemy · PostgreSQL`
 
 
-### [Workout Tracker (MERN)](https://github.com/Dungpham0703/workout_tracker)
-Full-stack web app for tracking workouts.  
-
-`React · Node.js · Express · MongoDB · Tailwind`
-
 ---
 
 ## Connect
